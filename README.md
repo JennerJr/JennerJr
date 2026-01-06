@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hye there 👋
 
-<!--
-**JennerJr/JennerJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jenner, a Software Engineer student who lives in Brazil and I’m learning about Developing in full Stack.
+I’m currently working on LeioApp (https://www.leioapp.com)
 
-Here are some ideas to get you started:
+___
+## Tools and Tech
+- JavaScript, TypeScript, Python. C++, MongoDB, NextJS, ReactNative
+- VisualStudio Code, Unreal 5, IntelliJ, Expo.
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me:
+   - I have a Dog called Pallas(A little Husky).
+   - My hobbies are animes and games.
+   - I have a channel about RPG and TCG.
