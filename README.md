@@ -6,7 +6,7 @@ I’m learning about Developing in full Stack.
 
 My repositories is a bit raw by now, but i'm starting to get serious about it!
 
-I’m currently working on SaaS called Reeferconecta, you can see on mey repos!
+I’m currently working on SaaS called Reeferconecta, you can see on my repos!
 
 ## Tools and Tech
 - JavaScript, TypeScript, Python, C++, MongoDB, NextJS, ReactNative
